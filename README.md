@@ -4,5 +4,7 @@ See [HomeVC.swift](SwiftScreenRecordWithReplayKit/HomeVC.swift) for the plain Re
 
 ### Related Repositories
 
-- More plain recording only example: https://github.com/mfyz/SwiftScreenRecordWithReplayKit
-- Screen record and save as Gif example: https://github.com/mfyz/SwiftScreenRecordAndExportGifWithReplayKitAndFFMPEG
+- More plain recording only example:
+  - https://github.com/mfyz/SwiftScreenRecordWithReplayKit
+- Screen record and save as Gif example:
+  - https://github.com/mfyz/SwiftScreenRecordAndExportGifWithReplayKitAndFFMPEG
